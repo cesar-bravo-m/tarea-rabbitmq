@@ -1,8 +1,9 @@
-package com.example.consumer.service;
+package com.example.productor.service;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.stereotype.Service;
-import com.example.consumer.config.RabbitMQConfig;
+
+import com.example.productor.config.RabbitMQConfig;
 
 @Service
 public class MessageProducer {

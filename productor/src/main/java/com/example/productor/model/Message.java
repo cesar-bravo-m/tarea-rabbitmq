@@ -1,4 +1,4 @@
-package com.example.consumer.model;
+package com.example.productor.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -68,7 +68,6 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- Oracle wallet security jars required for SSL/Wallet connections -->
 		<dependency>
 			<groupId>com.oracle.database.security</groupId>
 			<artifactId>oraclepki</artifactId>

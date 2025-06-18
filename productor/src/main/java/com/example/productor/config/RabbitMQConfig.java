@@ -1,4 +1,4 @@
-package com.example.consumer.config;
+package com.example.productor.config;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.core.QueueBuilder;

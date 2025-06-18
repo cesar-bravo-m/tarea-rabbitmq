@@ -1,13 +1,13 @@
-package com.example.consumer;
+package com.example.productor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConsumerApplication {
+public class ProductorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConsumerApplication.class, args);
+		SpringApplication.run(ProductorApplication.class, args);
 	}
 
 }
